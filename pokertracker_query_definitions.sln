@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PokerTracker_Query_Definitions", "pokertracker_query_definitions.vcxproj", "{DAE7979B-3014-4B86-8EFD-FA155A58FE78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE7979B-3014-4B86-8EFD-FA155A58FE78}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAE7979B-3014-4B86-8EFD-FA155A58FE78}.Debug|x86.Build.0 = Debug|Win32
+		{DAE7979B-3014-4B86-8EFD-FA155A58FE78}.Release|x86.ActiveCfg = Release|Win32
+		{DAE7979B-3014-4B86-8EFD-FA155A58FE78}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB1FD92-4220-4571-A976-6699552F34BD}
+	EndGlobalSection
+EndGlobal
